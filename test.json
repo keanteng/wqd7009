@@ -1,0 +1,44 @@
+{
+    "BigQuery Schema": [
+      {
+        "name": "datetime",
+        "type": "STRING"
+      },
+      {
+        "name" : "tempmax",
+        "type" : "STRING"
+      },
+      {
+        "name" : "tempmin",
+        "type" : "STRING"
+      },
+      {
+        "name" : "temp",
+        "type" : "STRING"
+      },
+      {
+        "name" : "dew",
+        "type" : "STRING"
+      },
+      {
+        "name" : "humidity",
+        "type" : "STRING"
+      },
+      {
+        "name" : "precip",
+        "type" : "STRING"
+      },
+      {
+        "name" : "windspeed",
+        "type" : "STRING"
+      },
+      {
+        "name" : "visibility",
+        "type" : "STRING"
+      },
+      {
+        "name" : "conditions",
+        "type" : "STRING"
+      }
+    ]
+  }
